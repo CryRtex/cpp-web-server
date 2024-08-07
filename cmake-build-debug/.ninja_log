@@ -1,0 +1,4 @@
+# ninja log v6
+11	1496	7394840432170967	CMakeFiles/Http.dir/server.cpp.obj	44fcda8c40fa3caf
+20	1625	7394840432265963	CMakeFiles/Http.dir/http_tcpserver.cpp.obj	553a8ac3306142b2
+1626	1766	7394840448320974	Http.exe	1db085949bbe4ae9
